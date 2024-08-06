@@ -30,26 +30,23 @@ This repository serves as an educational resource for those looking to understan
 
 To set up the environment for this project, install the required Python packages using the following command:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
 1. Clone the repository:
 
-   \`\`\`bash
+```bash
    git clone https://github.com/HedyehRahmani/House-Price-Prediction.git
-   cd your-repo-name
-   \`\`\`
+```
 
 2. Run the Python scripts to load the data, train the model, and evaluate the results.
 
-   \`\`\`bash
-   python data_preparation.py
-   python train_model.py
-   python evaluate_model.py
-   \`\`\`
+```bash
+   python app.py
+```
 
 ## Modeling Process
 
